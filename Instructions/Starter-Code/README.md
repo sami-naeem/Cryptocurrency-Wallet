@@ -116,6 +116,17 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 
 * Submit the link to your GitHub repo on Bootcamp Spot.
 
+# Final Results 
+
+The Ganache account address and details are as follows: 
+
+
+![screenshot_1](screenshot_1.png)
+
+The ganache transaction details are as follows: 
+
+![screenshot_2](screenshot_2.png)
+
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
